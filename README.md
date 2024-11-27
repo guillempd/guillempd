@@ -1,4 +1,6 @@
-## Hi there 👋
+![github-profile](https://github.com/user-attachments/assets/3ce16e6b-fdc0-4f28-8452-9cc679cc4771)
+
+### Hi there 👋
 
 🙂 In this GitHub profile, you will find some of the academic and personal projects I have developed over my software engineering career.
 Each comes with a brief description and a video showcasing them.
